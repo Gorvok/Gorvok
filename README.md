@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gorvok
 - 👀 I’m interested in ... Learning more about coding
-- 🌱 I’m currently learning ... Basics and fundamentals
+- 🌱 I’m currently learning ... Backend 
 - 💞️ I’m looking to collaborate on ... Possible application projects in the future
 - 📫 How to reach me ... message me
 
